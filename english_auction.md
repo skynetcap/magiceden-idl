@@ -1,4 +1,4 @@
-```json
+```
 version: "3.1.0",
 name: "english_auction",
 instructions: [{

@@ -1,4 +1,4 @@
-```json
+```
 version: "0.0.0",
 name: "escrow",
 instructions: [{
